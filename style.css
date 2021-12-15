@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 38px;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: darkgoldenrod;
+}
+ul {
+    list-style-type:none;
+    list-style-position: inside;
+    color: white;
+    padding-left: 0;
+}

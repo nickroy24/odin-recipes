@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 , h3 {
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 38px;
+}
+h1 {
+    font-size: 38px;
+}
+h3 {
+    font-size: 28px;
+}
+p , ul , ol {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
